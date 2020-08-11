@@ -8,7 +8,6 @@ public class AverageOfArrayElements4 {
         int number = scanner.nextInt();
         int array[] = new int[number];
         System.out.print("Enter the elements number: ");
-
         for (int i = 0; i < array.length; i++) {
             array[i] = scanner.nextInt();
         }
